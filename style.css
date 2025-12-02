@@ -44,3 +44,12 @@ header a {
     margin-left: 220px;
     margin-top: 0px;
 }
+
+.Work {
+  display:flex;
+  font-size: 24px;
+  font-weight: 300;
+  margin-left: 220px;
+  margin-top: 80px;
+  text-decoration: underline;
+}
