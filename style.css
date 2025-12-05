@@ -151,3 +151,87 @@ header a {
   display: flex;
   flex-wrap: wrap;
 }
+
+.AboutMe {
+  display: flex;
+  font-size: 64px;
+  margin-top: 0;
+  margin-left: 300px;
+  font-weight: 400;  
+}
+
+.Bio {
+  display: flex;
+  font-size: 28px;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-weight: lighter;
+}
+
+.BioPhoto {
+  display: flex;
+  width: 459px;
+  border-radius: 20px;
+  margin-left: 100px;
+}
+
+.AboutContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Contact {
+  display: flex;
+  font-size: 64px;
+  margin-top: 0;
+  margin-left: 300px;
+  font-weight: 400;  
+}
+
+.SayHi {
+  display: flex;
+  font-size: 48px;
+  margin-left: 650px;
+  margin-top: 100px;
+  font-weight: 100;
+}
+
+.SendEmail {
+  display: flex;
+  font-size: 36px;
+  margin-top: 30px;
+  margin-left: 20px;
+  color: black;
+}
+
+.EmailVector {
+  display: flex;
+  width: 50px;
+  margin-left: 545px;
+  margin-top: 30px;
+}
+
+.EmailContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.LinkedInLogo {
+  display: flex;
+  width: 50px;
+  margin-left: 545px;
+  margin-top: 30px;
+} 
+
+.LinkedInLink {
+  display: flex;
+  font-size: 36px;
+  margin-top: 30px;
+  margin-left: 20px;
+  color: black;
+}
+
+.LinkedInContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
