@@ -386,4 +386,26 @@ header a {
     font-size: 24px;
     text-align: center;
   }
+
+  .WorkContainer {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 0;
+    margin-top: 40px;
+  }
+
+  .Work {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .Arrow {
+    width: 28px;
+    margin: 0;
+  }
 }
+
+
