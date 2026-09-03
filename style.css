@@ -45,6 +45,14 @@ header a {
     margin-top: 0px;
 }
 
+.Introduction3 {
+    display: flex;
+    font-size: 25px;
+    font-weight: 300;
+    margin-left: 220px;
+    margin-top: 0px;
+}
+
 .Work {
   color:black;
   display:flex;
