@@ -178,6 +178,9 @@ header a {
   margin-top: 100px;
   margin-left: 70px;
   font-weight: lighter;
+  width: 800px;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .BioPhoto {
