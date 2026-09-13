@@ -178,7 +178,7 @@ header a {
   margin-top: 100px;
   margin-left: 70px;
   font-weight: lighter;
-  width: 800px;
+  width: 700px;
   overflow-wrap: break-word;
   word-break: break-word;
 }
@@ -186,6 +186,8 @@ header a {
 .BioPhoto {
   display: flex;
   width: 459px;
+  max-height: 583px;
+  object-fit: cover;
   border-radius: 20px;
   margin-left: 100px;
 }
